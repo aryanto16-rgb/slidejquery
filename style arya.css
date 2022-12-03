@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.pembungkus-tombol{
+    margin-left: 100px;
+    margin-right: 105px;
+}
+
+.tengah{
+    text-align: center;
+}
+.isi{
+    background-color: wheat;
+    margin-left: 50px;
+    margin-right: 55px;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 15px;
+}
+.tombol{
+    background-color: gold;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 5px;
+    text-decoration: none;
+    margin-left: 10px;
+    margin-top: 50px;
+}
